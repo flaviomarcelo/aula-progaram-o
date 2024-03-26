@@ -1,21 +1,26 @@
-header{
-    background-color:#383D58;color:white;
+header {
+    background-color: #383D58;
+    color: white;
 }
-.cabecalho-imagem{
-    width:20%;
+
+.cabecalho-imagem {
+    width: 20%;
 }
+
 .escola {
-    background-image:linear-grandient(#424E61,#16CFF8);
-    color:white;
-    display:flexe;
-    justify-content:center;
-    align-itens:center;
+    background-image: linear-grandient(#424E61, #16CFF8);
+    color: white;
+    display: flexe;
+    justify-content: center;
+    align-itens: center;
     padding: 24px 0;
-    
+
 }
-.escola-div-conteudo{
+
+.escola-div-conteudo {
     width: 35%;
 }
-.escola-titulo{
+
+.escola-titulo {
     padding: 24px 0;
 }
