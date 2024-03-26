@@ -4,11 +4,18 @@ header{
 .cabecalho-imagem{
     width:20%;
 }
-. escola {
+.escola {
     background-image:linear-grandient(#424E61,#16CFF8);
     color:white;
     display:flexe;
     justify-content:center;
     align-itens:center;
+    padding: 24px 0;
+    
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
     padding: 24px 0;
 }
